@@ -1,0 +1,3 @@
+badtankColumn=11
+badtankRow=4
+gameObjectColliders=com.star.tank.collider.TankBulletCollider,com.star.tank.collider.TankTankCollider,com.star.tank.collider.TankWallCollider,com.star.tank.collider.WallBulletCollider
