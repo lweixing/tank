@@ -29,12 +29,3 @@ public class Yayitouzical {
 
     }
 }
-
-class Person{
-    private float money;
-    private float rate;
-}
-
-class Xiangchao extends Person{
-
-}
